@@ -1,4 +1,4 @@
 Hi this is for Equal tech
 Love this class
-this is a lovely day 
-this is the original file 
+this is a lovely day
+added a conflicting line here  
