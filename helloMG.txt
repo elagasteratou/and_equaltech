@@ -4,3 +4,4 @@ this is a lovely day
 added a conflicting line here  
 Added line from new Mac
 
+Created final line
